@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
@@ -183,3 +184,6 @@ On the final day, you'll review best practices for AWS services, including secur
 
 ## Day 30: AWS Project with RDS
 
+=======
+# AWS_From_The_Scratch
+>>>>>>> 433cee5588053de3ced24e868a35aa996b2fe021
